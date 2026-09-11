@@ -1,0 +1,6 @@
+A = input("test character: ")
+print(A * 2)
+B = input("test character: ")
+print(B * 4)
+C = input("test character: ")
+print(C * 6)
